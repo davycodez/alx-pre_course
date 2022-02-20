@@ -1,1 +1,1 @@
-My first readme
+Am enjoying the programming ride. Thanks ALX!
